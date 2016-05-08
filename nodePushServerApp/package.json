@@ -1,0 +1,10 @@
+{
+  "name": "node-push-server-app",
+  "version": "0.0.0",
+  "description": "nodePushServerApp",
+  "main": "app.js",
+  "author": {
+    "name": "Nima",
+    "email": ""
+  }
+}
